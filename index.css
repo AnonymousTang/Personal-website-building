@@ -50,7 +50,7 @@ nav ul div li a:hover{background-color:gray;}
 
 .guanyuwo{float: right;}
 
-.LOGO{margin-top: 13px;margin-right: 5%;width: 10%;}
+.LOGO{margin-top: 13px;margin:0 auto;width: 5%;}
 .LOGO img{width: 100%;}
 
 
@@ -58,4 +58,4 @@ nav ul div li a:hover{background-color:gray;}
 .zhanweifu{margin: 300px auto;width: 80%;}
 
 /* 底部信息 */
-footer{width: 80%;margin: 100px auto 30px ;font-size: 5vw;color: rgb(160, 160, 160);}
+footer{width: 80%;margin: 100px auto 30px ;font-size: 3vw;color: rgb(160, 160, 160);}
