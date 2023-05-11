@@ -54,16 +54,8 @@ nav ul div li a:hover{background-color:gray;}
 .LOGO img{width: 100%;}
 
 
-/* 作业 */
-.zuoye{width: 80%;margin: 100px auto;}
-.zuoye h1{width: 30%;margin: 50px auto; font-size: 4vw; text-align: center;color: white;}
-.zuoye ul{width: 50%;margin: 50px auto;padding: 0px}
-.zuoye ul li{margin: 10px auto; text-align: center;color: white;list-style-type: none;text-decoration: none;}
-.zuoye ul li a{text-decoration: none;color: white;font-size: 1.5vw;}
-
-
 /* 占位符 */
 .zhanweifu{margin: 300px auto;width: 80%;}
 
 /* 底部信息 */
-footer{width: 80%;margin: 100px auto 30px ;font-size: 1vw;color: rgb(160, 160, 160);}
+footer{width: 80%;margin: 100px auto 30px ;font-size: 5vw;color: rgb(160, 160, 160);}
